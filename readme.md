@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# Advent of Code 2025
 
 Will `cargo new --vcs none` a new binary project for each day within the rust directory. 
 
